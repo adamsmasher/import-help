@@ -1,0 +1,12 @@
+{
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "tsc": "yarn workspaces run -s tsc"
+  },
+  "dependencies": {},
+  "workspaces": [
+    "common",
+    "web"
+  ]
+}
